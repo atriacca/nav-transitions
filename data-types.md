@@ -57,10 +57,7 @@
 
     colors[0] = "red"
     console.log(colors)
-       
-    
 
-  
 
 // Types of Functions
     // 2 ways to declare a function
